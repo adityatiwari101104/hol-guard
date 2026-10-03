@@ -23,11 +23,11 @@
   "tools": [
     { "name": "contribos_policy", "state": "inherit" },
     { "name": "contribos_brief", "state": "inherit" },
-    { "name": "contribos_setup", "state": "inherit" },
+    { "name": "contribos_setup", "state": "review" },
     { "name": "contribos_diagnose", "state": "inherit" },
     { "name": "contribos_check", "state": "inherit" },
     { "name": "contribos_review", "state": "inherit" },
-    { "name": "contribos_claim", "state": "inherit" },
+    { "name": "contribos_claim", "state": "review" },
     { "name": "contribos_tone", "state": "inherit" },
     { "name": "contribos_find", "state": "inherit" },
     { "name": "other", "state": "inherit" }
